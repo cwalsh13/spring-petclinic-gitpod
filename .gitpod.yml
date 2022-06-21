@@ -15,6 +15,10 @@ vscode:
     - vscjava.vscode-java-test
     - pivotal.vscode-spring-boot
 
+image:
+  file: .gitpod.dockerfile
+
+
 jetbrains:
   intellij:  
     plugins:
